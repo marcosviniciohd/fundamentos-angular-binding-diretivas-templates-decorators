@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'binding-diretivas-templates-e-decorators';
+  inputText = 'Texto Inicial';
+  inputType = 'text';
+  isDisabled = false;
 }
